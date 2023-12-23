@@ -1,0 +1,14 @@
+//-------Before Threading-----------
+real    0m5.992s
+user    0m0.303s
+sys     0m0.043s
+//-------After Threading------------
+real    0m8.743s
+user    0m0.268s
+sys     0m0.042s
+
+//Difference
+real   - 2.751
+user    0.035
+sys     0.001
+
